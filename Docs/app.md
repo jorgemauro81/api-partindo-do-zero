@@ -44,4 +44,9 @@ link:"https://www.youtube.com/watch?v=bhKz9ep9Cm4&t=6874s",
 categories:["humor","musical"]
 }
 ]
+
 '''
+
+GET
+Retorna lista de episódios baseado em um parâmetro que
+vem do client do nome do podcast

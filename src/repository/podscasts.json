@@ -6,9 +6,21 @@
     "categories": ["humor", "policial"]
   },
   {
-    "podcastName": "Britto podcast",
+    "podcastName": "Brittopodcast",
     "episode": "FERRUGEM - Brito Podcast especial episódio 300",
     "videoId": "bhKz9ep9Cm4",
     "categories": ["humor", "musical"]
+  },
+  {
+    "podcastName": "conexaoSP300",
+    "episode": "Ten. Cardoso fala sobre o sonho de ser Bombeiro #29",
+    "videoId": "Z6G1ZoOtXmc",
+    "categories": ["policial", "humor"]
+  },
+  {
+    "podcastName": "conexaoSP300",
+    "episode": "podcast CONEXÃO SP300 #010",
+    "videoId": "DWIVA6d1FOw",
+    "categories": ["policial"]
   }
 ]
