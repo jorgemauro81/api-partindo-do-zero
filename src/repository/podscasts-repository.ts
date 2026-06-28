@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import { IPodscasts } from "../models/IPodscasts";
+import { IPodscasts } from "../interfaces/IPodscasts";
 const filePath = path.join(__dirname, "../repository/podscasts.json");
 
 export const repositoryListEpisodes = async (): Promise<IPodscasts[]> => {
